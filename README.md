@@ -50,7 +50,7 @@ This repository contains a Python script for analyzing and forecasting eggplant 
 ## Code Explanation
 
 
-1. Data Loading and Exploration
+### Data Loading and Exploration
 
 The script starts by loading the dataset and exploring its contents.
 
@@ -65,7 +65,8 @@ eggplant_data['Date'] = pd.to_datetime(eggplant_data['Date'])
 eggplant_data.set_index('Date', inplace=True)
 print(eggplant_data.describe())
 
-2. Trend Analysis
+
+### Trend Analysis
 
 Plotting the time series data using Matplotlib.
 
