@@ -18,7 +18,7 @@ This repository contains a Python script for analyzing and forecasting eggplant 
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone <repository_https://github.com/john19645/EGGPLANTREADME/edit/main/README.md>
     cd <repository_folder>
     ```
 
@@ -48,6 +48,7 @@ This repository contains a Python script for analyzing and forecasting eggplant 
     ```
 
 ## Code Explanation
+
 
 1. Data Loading and Exploration
 
